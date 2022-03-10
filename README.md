@@ -1,16 +1,21 @@
-# family_tree
+# Family Tree Application
 
-Family Tree Application
+Flutter Web
 
-## Getting Started
+# Demo Video
 
-This project is a starting point for a Flutter application.
+https://youtu.be/ay75y7elPDw
 
-A few resources to get you started if this is your first Flutter project:
+# Web Platform
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://famiy-tree.web.app
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tech Stack
+
+- Flutter
+- Firebase Firestore Database
+- Firebase Storage
+- Firebase Hosting
+- Firebase Firestore
+- Auto Route
+- http
